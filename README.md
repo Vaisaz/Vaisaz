@@ -1,6 +1,5 @@
 <h1>Sup!</h1>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif>
-<p>"I'm dying <b>inside</b>... help me"</p>
 <ul>
 <li>🐍 Currently learning and using Python</li>
 <li>👾 Enjoy pixel games</li>
