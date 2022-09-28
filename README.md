@@ -1,6 +1,7 @@
 <h1>Sup!</h1>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif>
 <ul>
+<li>💿 Using Manjaro Linux</li>
 <li>🐍 Currently learning and using Python</li>
 <li>👾 Enjoy pixel games</li>
 <li>🤫 Quiet guy</li>
