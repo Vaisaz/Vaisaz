@@ -3,7 +3,6 @@
 <ul>
 <li>💿 Using Manjaro Linux</li>
 <li>🐍 Currently learning and using Python</li>
-<li>👾 Enjoy pixel games</li>
 <li>🤫 Quiet guy</li>
 </ul>
 
