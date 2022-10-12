@@ -3,8 +3,8 @@ div {
                 height: 400px;
                 background-image: linear-gradient(to right, red , yellow);
             }
-
-<div><h1>Sup!</h1></div>
+<div></div>
+<h1>Sup!</h1>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif>
 <ul>
 <li>💿 Using Manjaro Linux</li>
