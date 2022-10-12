@@ -1,10 +1,4 @@
-div {
-                width: 400px;
-                height: 400px;
-                background-image: linear-gradient(to right, red , yellow);
-            }
-<div></div>
-<h1>Sup!</h1>
+<div style="background-color:purple;"><h1>Sup!</h1></div>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif>
 <ul>
 <li>💿 Using Manjaro Linux</li>
