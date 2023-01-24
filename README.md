@@ -1,8 +1,8 @@
 <div style="background-color:purple;"><h1>Sup!</h1></div>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif alt='walter-white-falling.gif'>
 <ul>
-<li>💿 Using Manjaro Linux</li>
-<li>🐍 Currently learning and using Python</li>
+<li>💿 Using PopOS</li>
+<li>☕ Currently learning and using Java</li>
 <li>🤫 Quiet guy</li>
 </ul>
 
