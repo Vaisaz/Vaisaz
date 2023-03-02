@@ -1,8 +1,7 @@
 <div style="background-color:purple;"><h1>Sup!</h1></div>
 <img src=https://c.tenor.com/YFH8r7l0IX0AAAAd/walter-white-falling.gif alt='walter-white-falling.gif'>
-<ul>
-<li>💿 Using PopOS as main</li>
-<li>🤫 Quiet guy</li>
+<ul style="list-style-type:square">
+<li>💪C</li>
 </ul>
 
 <!---
