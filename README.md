@@ -1,4 +1,4 @@
-![Boisvert](https://tenor.com/view/xreamy-boisvert-burning-gif-27173779)
+![](https://tenor.com/view/xreamy-boisvert-burning-gif-27173779.gif)
 ![alt](url)
 <!---
 Vaisaz/Vaisaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
